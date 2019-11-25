@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="135px" height="194px" viewBox="0 0 135 194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>new theme</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100.076784%" y1="50.0226018%" x2="0.0477373989%" y2="50.0226018%" id="linearGradient-1">
+            <stop stop-color="#17D1AA" offset="0%"></stop>
+            <stop stop-color="#1AC2AE" offset="6.594372%"></stop>
+            <stop stop-color="#229BB8" offset="26.51%"></stop>
+            <stop stop-color="#297CC0" offset="46.16%"></stop>
+            <stop stop-color="#2D66C6" offset="65.25%"></stop>
+            <stop stop-color="#3059CA" offset="83.49%"></stop>
+            <stop stop-color="#3154CB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="65.1669214%" y1="51.226271%" x2="17.7969432%" y2="21.6227076%" id="linearGradient-2">
+            <stop stop-color="#17D1AA" offset="0%"></stop>
+            <stop stop-color="#1AC2AE" offset="6.594372%"></stop>
+            <stop stop-color="#229BB8" offset="26.51%"></stop>
+            <stop stop-color="#297CC0" offset="46.16%"></stop>
+            <stop stop-color="#2D66C6" offset="65.25%"></stop>
+            <stop stop-color="#3059CA" offset="83.49%"></stop>
+            <stop stop-color="#3154CB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="new-theme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <g id="roadmap:native-mobile-apps" transform="translate(68.000000, 120.000000)" stroke="#244BC0" stroke-width="2">
+                <g id="Group-8-Copy-3">
+                    <path d="M5,0 L5,63.4296764" id="Path-3"></path>
+                    <circle id="Oval-2" cx="4.5" cy="67.5" r="4.5"></circle>
+                </g>
+            </g>
+            <g id="roadmap_new-theme">
+                <g id="_x36__27_">
+                    <g id="XMLID_306_">
+                        <path d="M130.393365,6.48763251 L122.459716,1.97173145 C121.883886,1.52650177 119.64455,0.826855124 118.940758,0.636042403 C116.829384,-0.0636042403 114.206161,0.318021201 111.454976,1.90812721 L13.563981,58.5159011 C6.20616114,62.7773852 0.255924171,74.1625442 0.255924171,83.9575972 L0.511848341,162.826855 C0.511848341,168.678445 2.68720379,172.621908 6.01421801,173.957597 L15.0995261,178.664311 L22.2654028,167.978799 L111.838863,116.204947 C119.196682,111.943463 125.146919,100.558304 125.146919,90.7632509 L124.890995,14.7561837 L130.393365,6.48763251 Z" id="XMLID_307_" fill="#E1F2FF"></path>
+                        <path d="M134.744076,17.0459364 C134.680095,7.25088339 128.729858,2.79858657 121.308057,7.06007067 L23.4170616,63.6678445 C16.0592417,67.9293286 10.1090047,79.3144876 10.1090047,89.1095406 L10.3649289,167.915194 C10.42891,177.710247 16.3791469,182.162544 23.8009479,177.90106 L121.691943,121.293286 C129.049763,117.031802 135,105.646643 135,95.8515901 L134.744076,17.0459364 Z" id="Path" fill="#1D45BA"></path>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(41.587678, 40.706714)">
+                    <path d="M61.485782,13.4204947 L2.49526066,48.975265 C1.21563981,49.7385159 0.447867299,51.1378092 0.447867299,52.6007067 L0.447867299,91.335689 C0.447867299,94.6431095 4.09478673,96.6784452 6.97393365,94.9611307 L62.0616114,61.7597173 C63.3412322,60.9964664 64.1090047,59.5971731 64.1090047,58.1342756 L64.1090047,14.8833922 C64.1090047,13.5477032 62.6374408,12.7208481 61.485782,13.4204947 Z" id="Path" fill="#E1F2FF"></path>
+                    <path d="M61.0379147,0.381625442 L1.3436019,36.3180212 C0.767772512,36.6996466 0.383886256,37.335689 0.383886256,38.0353357 L0.383886256,54.6360424 L64.0450237,16.2826855 L64.0450237,2.09893993 C64.1090047,0.508833922 62.3815166,-0.445229682 61.0379147,0.381625442 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                    <ellipse id="Oval" fill="#E1F2FF" transform="translate(55.175959, 12.799997) rotate(-53.432609) translate(-55.175959, -12.799997) " cx="55.1759588" cy="12.7999972" rx="5.16306126" ry="2.80947154"></ellipse>
+                    <ellipse id="Oval" fill="#E1F2FF" transform="translate(43.738426, 19.715941) rotate(-53.432609) translate(-43.738426, -19.715941) " cx="43.7384261" cy="19.7159406" rx="5.16306126" ry="2.80947154"></ellipse>
+                    <ellipse id="Oval" fill="#E1F2FF" transform="translate(32.249504, 26.594052) rotate(-53.432609) translate(-32.249504, -26.594052) " cx="32.2495038" cy="26.5940523" rx="5.16306126" ry="2.80947154"></ellipse>
+                </g>
+                <path d="M41.971564,105.328622 L59.8222749,113.533569 C61.9336493,114.551237 63.8530806,114.869258 65.1327014,113.088339 L100.578199,59.9787986 L41.971564,95.2791519 L41.971564,105.328622 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

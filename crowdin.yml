@@ -1,0 +1,32 @@
+files:
+  - source: /src/language/en.json
+    translation: /src/language/%language%.json
+    languages_mapping:
+      language:
+        zh-CN: zh_Hans
+        zh-TW: zh_Hant
+        ja: ja
+        ko: ko
+        ru: ru
+        de: de-DE
+        fr: fr-FR
+        id: id-ID
+        es: es-ES
+        it: it-IT
+        pt-BR: pt-BR
+        
+  - source: /src/terms/en-US.md
+    translation: /src/terms/%language%.md
+    languages_mapping:
+      language:
+        zh-CN: zh-Hans
+        zh-TW: zh-Hant
+        ja: ja-JP
+        ko: ko-KR
+        ru: ru-RU
+        de: de-DE
+        fr: fr-FR
+        id: id-ID
+        es: es-ES
+        it: it-IT
+        pt-BR: pt-BR
