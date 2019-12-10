@@ -52,6 +52,8 @@
     "mobx-react-devtools": "6.0.1",
     "mobx-react-intl": "1.4.0",
     "react": "15.6.1",
+    "react-animated-burgers": "^1.2.7",
+    "react-animations": "^1.0.0",
     "react-bootstrap-sweetalert": "4.4.1",
     "react-dom": "15.6.1",
     "react-intl": "2.4.0",

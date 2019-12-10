@@ -3,6 +3,9 @@ import styled from 'styled-components';
 const Overflow = styled.div `
   @media (max-width: 700px) {
     margin-top: 46px;
+    /* padding-left:30px; */
+    text-align:center;
+
   }
   
   @media (min-width: 700px) {
